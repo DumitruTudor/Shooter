@@ -13,7 +13,6 @@ config_version=5
 config/name="Shooter"
 run/main_scene="res://scenes/levels/level.tscn"
 config/features=PackedStringArray("4.1", "Mobile")
-run/max_fps=60
 config/icon="res://icon.svg"
 
 [rendering]
